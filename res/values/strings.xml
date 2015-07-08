@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Weight Throwing</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Reboot</string>
+    <string name="action_return">Return Weight</string>
+    <string name="action_enviar">Enable Q</string>
+      <string name="application_id">T4ScqUWBWRBfrsXVfJ6Bzkn5Sl87WepRiVezxu18</string>
+        <string name="rest_api_key">CGasYA3DFmGnPSFIa77n48PK366TNtxasM9awlv2</string>
+
+</resources>
